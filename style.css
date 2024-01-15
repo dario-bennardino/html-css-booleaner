@@ -35,3 +35,7 @@ h1{
 .evidenziato-giallo{
     background-color: yellow;
 }
+
+.collegamenti-video > h3{
+    color: gray;
+}
