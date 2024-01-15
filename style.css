@@ -1,3 +1,7 @@
+body{
+    width: 100vw;
+}
+
 .top-title{
     width: 100%;
     background-image: url(img/pattern.png);
@@ -7,5 +11,10 @@
 #logo{
     width: 200px;
     height: 100px;
+    margin-top: 20px;
+}
+
+h1{
+    font-size: 35px;
 }
 
