@@ -16,5 +16,18 @@ body{
 
 h1{
     font-size: 35px;
+    margin-bottom: 0;
 }
 
+.images-news{
+    width: 100vw;
+    margin-top: 20px;
+}
+
+.autore, .data-articolo{
+    color: gray;
+}
+
+#evidenziato-giallo{
+    background-color: yellow;
+}
