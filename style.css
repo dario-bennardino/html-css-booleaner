@@ -1,5 +1,5 @@
 body{
-    width: 100vw;
+    width: 60vw;
 }
 
 .top-title{
@@ -28,6 +28,10 @@ h1{
     color: gray;
 }
 
-#evidenziato-giallo{
+/* #evidenziato-giallo{
+    background-color: yellow;
+} */
+
+.evidenziato-giallo{
     background-color: yellow;
 }
