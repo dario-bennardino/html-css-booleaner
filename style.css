@@ -1,0 +1,11 @@
+.top-title{
+    width: 100%;
+    background-image: url(img/pattern.png);
+    background-color: #4EA0FF;
+}
+
+#logo{
+    width: 200px;
+    height: 100px;
+}
+
